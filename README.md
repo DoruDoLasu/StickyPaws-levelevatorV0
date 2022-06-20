@@ -8,7 +8,7 @@ Currently can:
  - Be the first one ever made I think
  - That's it
 
-*not fully, as for now it can't generate the Object Placement.txt file which can make issues, also converted arrows point only in one direction and strong springs end up just springs
+*not fully, as for now it can't generate the Object Placement.txt file which can cause issues, also converted arrows point only in one direction and strong springs end up just springs
 
 Future goals:
 
