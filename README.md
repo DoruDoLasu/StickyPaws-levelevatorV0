@@ -14,7 +14,7 @@ Future goals:
 
   - Get those not fully working things more working
   - Add support of older Sticky Paws versions (level codes)
-  - Add backporting of the levels so the code ones can play on Github 1 (I think it's not that hard actually) and so DX ones to play on 1 (??)
+  - Add backporting of the levels so the code ones can play on Github 1 (I think it's not that hard actually) and so DX ones can play on 1 (??)
   - Rewrite the whole thing into a level/mod installer with graphical interface and actually actually pretty easy to use (that's the future)
 
 
